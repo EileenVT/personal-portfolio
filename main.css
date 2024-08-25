@@ -11,9 +11,10 @@ body {
     color: black;
     background-color: pink;
     text-align: center;
+    font-family: cursive;
     }
     h2 {
-    font-style: italic;
+    font-family: cursive;
     border-bottom: 3px solid pink; /* Add a line below h2s */
     }
     ul {
@@ -26,4 +27,5 @@ body {
         font-weight: bold;
         font-size: 120%;
         text-align: center;
+        font-family: cursive;
     }
